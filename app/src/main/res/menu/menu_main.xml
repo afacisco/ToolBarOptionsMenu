@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnOp1"
+        android:title="@string/menu_main_op1"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/mnOp2"
+        android:title="@string/menu_main_op2"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mnOp3"
+        android:title="@string/menu_main_op3"
+        android:orderInCategory="300"/>
+</menu>

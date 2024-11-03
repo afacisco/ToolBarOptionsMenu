@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolBar OptionsMenu</string>
+    <string name="menu_main_op1">Opción 1</string>
+    <string name="menu_main_op2">Opción 2</string>
+    <string name="menu_main_op3">Opción 3</string>
+    <string name="dialogo_salir_tit">Salir</string>
+    <string name="dialogo_salir_men">¿Quieres salir de la aplicación?</string>
+    <string name="dialogo_salir_pbtn">Aceptar</string>
+    <string name="dialogo_salir_nbtn">Cancelar</string>
+</resources>
